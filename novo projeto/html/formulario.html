@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
+        <link rel="stylesheet" href="css/formulario.css">
+        <script src="js/formulario.js"></script>
+         <title>Casas de Hogwarts</title>
+         <a href="hp.html" >
+             <img src="img/casa.png" width="70px"></a>
+         <h1>Formulario</h1>
+         <header class="cabecalho a">
+            <a class="aa" href="casas.html">Hogwarts</a>
+            <a class="aa" href="filmes.html">Filmes</a>
+            <a class="aa"href="livros.html">Livros</a>
+    
+        </header>
+     </head>
+<body>
+    <form action="dados.php" method="post" onsubmit="return validar()" name="form">
+        <fieldset>
+        <legend>Dados Pesoais</legend>
+      <br>
+      <label>Nome</label>
+      <input type="text"name="nome" placeholder="Digite seu nome">
+      <br>
+      <br>
+      <label>Sexo</label>
+      <input type="radio"name="sexo" value="M"> Masculino
+      <input type="radio"name="sexo"value="F"> Feminino
+      <br>
+      <br>
+      <label>Data Nascimento</label>
+      <input type="date"name="data_nasc" >
+      <br>  
+     
+      <br>
+      <label>CPF</label>
+      <input type="text" name="cpf"  placeholder="Digite seu CPF">
+      <br>
+      <br>
+      <label>Telefone</label>
+      <input type="tel" name="telefone" placeholder="Digite seu telefone" >
+      <br>
+      <br>
+      <label>Estado</label>
+      <select name="estado" id="" >
+          <option value="">Selecione um Estado</option>
+          <option value="AC">Acre</option>
+          <option value="AL">Alagoas</option>
+          <option value="AP">Amapá</option>
+          <option value="AM">Amazonas</option>
+          <option value="BA">Bahia</option>
+          <option value="CE">Ceará</option>
+          <option value="DF">Distrito Federal</option>
+          <option value="ES">Espírito Santo</option>
+          <option value="GO">Goiás</option>
+          <option value="MA">Maranhão</option>
+          <option value="MT">Mato Grosso</option>
+          <option value="MS">Mato Grosso do Sul</option>
+          <option value="MG">Minas Gerais</option>
+          <option value="PA">Pará</option>
+          <option value="PB">Paraíba</option>
+          <option value="PR">Paraná</option>
+          <option value="PE">Pernambuco</option>
+          <option value="PI">Piauí</option>
+          <option value="RJ">Rio de Janeiro</option>
+          <option value="RN">Rio Grande do Norte</option>
+          <option value="RS">Rio Grande do Sul</option>
+          <option value="RO">Rondônia</option>
+          <option value="RR">Roraima</option>
+          <option value="SC">Santa Catarina</option>
+          <option value="SP">São Paulo</option>
+          <option value="SE">Sergipe</option>
+          <option value="TO">Tocantins</option>
+      </select>
+      <br> <br>
+      </fieldset>
+      <br>
+      <fieldset>
+          <legend>Criação da Conta</legend>
+     
+             <br>
+             <label>E-mail</label>
+             <input type="email" name="email" placeholder="Digite seu E-mail">
+             <br>
+             <br>
+             <label>Crie sua senha</label>
+             <input type="password"name="senha" placeholder="Digite senha">
+             <br>
+             <br>
+             <label>Confirme sua senha</label>
+             <input type="password" name="confirm_senha" placeholder="Confirme senha">
+             <br>
+             <input name="Submit" type="submit" value="Cadastrar">
+   
+  </fieldset>
+    </form>
+    <br>
+    <footer>
+    
+        &#129417;  Todos os direitos reservados  &copy;
+    </footer>
+</body>
+</html>
