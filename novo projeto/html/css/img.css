@@ -8,4 +8,12 @@ img{
     padding-left: 20px;
     height: 210px;
     padding-right: 10px;
-}
+}.figura {
+    float: right;
+    width: 400px;
+    margin: 10px;
+  }.figura p {
+    max-width: fit-content;
+  }img.escala {
+    width: 70%;
+  }
