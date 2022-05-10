@@ -1,0 +1,11 @@
+img{
+    float: left;
+    padding-left: 20px;
+    height: 210px;
+    padding-right: 10px;
+}.foto2{
+    float: right;
+    padding-left: 20px;
+    height: 210px;
+    padding-right: 10px;
+}

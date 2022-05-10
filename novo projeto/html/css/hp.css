@@ -19,11 +19,6 @@
         text-decoration: none;
     }body{
         background-color: #FDF5E6;
-    }img{
-        float: left;
-        padding-left: 20px;
-        height: 210px;
-        padding-right: 10px;
     }footer{
         background-color: black;
         color: whitesmoke;
@@ -54,9 +49,4 @@
     }.car{
         font-size: large;
         font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', serif;
-    }.foto2{
-        float: right;
-        padding-left: 20px;
-        height: 210px;
-        padding-right: 10px;
     }
