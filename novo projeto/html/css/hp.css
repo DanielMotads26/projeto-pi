@@ -51,4 +51,12 @@
          text-decoration: none;
     }.menu li{
         color: whitesmoke;
+    }.car{
+        font-size: large;
+        font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', serif;
+    }.foto2{
+        float: right;
+        padding-left: 20px;
+        height: 210px;
+        padding-right: 10px;
     }
