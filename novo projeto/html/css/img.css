@@ -12,8 +12,19 @@ img{
     float: right;
     width: 400px;
     margin: 10px;
-  }.figura p {
+}.figura p {
     max-width: fit-content;
-  }img.escala {
+}img.escala {
     width: 70%;
-  }
+}header{
+  background-color: black;
+  text-align: center;
+  padding :20px;
+  margin: 30px;
+  margin-left: 10%;
+  background-size: cover;
+  background-position: center;
+  font-family: Impact, 'Haettenschweiler', 'Arial Narrow ', sans-serif;
+  text-decoration: none;
+    
+}

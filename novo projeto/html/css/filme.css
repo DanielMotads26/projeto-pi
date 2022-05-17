@@ -2,14 +2,7 @@ h1{
     font-style: oblique;
     text-align: center;
 
-}.topo{
-     background-color: black;
-     text-align: center;
-     padding :20px;
-     margin: 30px;
-     background-size: cover;
-     background-position: center;
-     font-family: Impact, 'Haettenschweiler', 'Arial Narrow ', sans-serif;
+
     }.cabecalho a {
         
      padding: 10px;
@@ -29,5 +22,10 @@ h1{
     text-align: center;
 }p{
     color: rgb(255, 255, 255);
-}
+}.logo{
+    float: left;
+    padding-left: 20px;
+    height: 140px; 
+    padding-bottom: 0px;
+    }
    

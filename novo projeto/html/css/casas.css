@@ -2,16 +2,7 @@ h1,h4,h3,h2,h6,h5{
     font-style: oblique;
     text-align: center;
     font-size: large;
-}.topo {
-    background-color: black;
-    text-align: center;
-     padding :20px;
-     margin: 30px;
-     background-size: cover;
-     background-position: center;
-     font-family: Impact, 'Haettenschweiler', 'Arial Narrow ', sans-serif;
-
-    }.cabecalho a {
+}.cabecalho a {
         text-decoration: none;
         padding: 10px;
     }.cabecalho a:hover {
@@ -53,6 +44,11 @@ h1,h4,h3,h2,h6,h5{
         padding-left: 20px ;
     }.hino{
         text-align: center;
-    }
+    }.logo{
+        float: left;
+        padding-left: 20px;
+        height: 140px; 
+        padding-bottom: 0px;
+        }
 
        
