@@ -2,24 +2,18 @@ h1{
     font-style: oblique;
     text-align: center;
 
-}
-.logo{
+}.logo{
     float: left;
     padding-left: 20px;
     height: 140px; 
     padding-bottom: 0px;
-    }.cabecalho a {
-        
-     padding: 10px;
 
+}.cabecalho a {
+     padding: 10px;
 }.aa{
     color: rgb(255, 255, 255);
 }body{
     background-color: #FDF5E6;
-}img{
-    float: left;
-    width: 70px;
-    height: 70px;
 
 }footer{
     background-color: black;
@@ -27,4 +21,14 @@ h1{
     text-align: center;
 }p{
     color: rgb(255, 255, 255);
+}.logo2{
+    float: left;
+    width: 100px;
+    height: 20px; 
+    
+}.logo1{
+    float: right;
+    width: 100px;
+    height: 20px; 
+    
 }

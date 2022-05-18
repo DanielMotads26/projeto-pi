@@ -5,9 +5,9 @@
     }header{
         background-color: black;
         text-align: center;
-         padding :20px;
-         margin: 30px;
-         margin-left: 9%;
+         padding :20%;
+         margin: 30%;
+         margin-left: 10%;
          background-size: cover;
          background-position: center;
          font-family: Impact, 'Haettenschweiler', 'Arial Narrow ', sans-serif;
@@ -21,7 +21,7 @@
         text-decoration: none;
     }body{
         background-color: #FDF5E6;
-        text-align: justify;
+     
     }footer{
         background-color: black;
         color: whitesmoke;
@@ -38,19 +38,10 @@
         margin-left: 10px;
     }.logo{
         float: left;
-        padding-left: 20px;
+        padding-left: 1%;
         height: 140px; 
         padding-bottom: 0px;
-    }.menu{
-        background-color: black;
-         padding :10px;
-         margin: 10px;
-         background-size: cover;
-         background-position: center;
-         font-family: Impact, 'Haettenschweiler', 'Arial Narrow ', sans-serif;
-         text-decoration: none;
-    }.menu li{
-        color: whitesmoke;
+    
     }.car{
         font-size: large;
         font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', serif;
