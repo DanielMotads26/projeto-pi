@@ -1,31 +1,55 @@
 h1{
     font-style: oblique;
-    text-align: center;
+    text-align: center; 
 
-
-    }.cabecalho a {
-        
-     padding: 10px;
-
-}.aa{
-    color: rgb(255, 255, 255);
-}body{
-    background-color: #FDF5E6;
-}img{
+}.p1{
     float: left;
-    width: 70px;
-    height: 70px;
-
-}footer{
-    background-color: black;
-    color: whitesmoke;
-    text-align: center;
-}p{
-    color: rgb(255, 255, 255);
-}.logo{
+    border: 1px;
+    margin: 80px;
+}.p2{
     float: left;
-    padding-left: 20px;
-    height: 140px; 
-    padding-bottom: 0px;
-    }
-   
+    border: 1px;
+    margin: 80px;
+}.p3{
+    float: left;
+    border: 1px;
+    margin: 80px;
+}.p4{
+    float: left;
+    border: 1px;
+    margin: 80px;
+}.p5{
+    float: left;
+    border: 1px;
+    margin: 80px;
+}.p6{
+    float: left;
+    border: 1px;
+    margin: 80px;
+}.p7{
+    float: left;
+    border: 1px;
+    margin: 80px;
+}.bloco{
+    align-items: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}.bloco2{
+    align-items: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    margin-bottom: 10%;
+}.bloco3{
+    align-items: center;
+    padding-left: 39%;
+    padding-right: 39%;
+}.bloco .bloco2 .bloco3{
+    display: flex;
+    height: 5px; 
+    
+}.p1 .p2 .p3 .p4 .p5 .p6 .p7{
+    transition: margin 0.2s ease-in-out;
+
+}.p1 .p2 .p3 .p4 .p5 .p6 .p7 :hover{
+    margin-top: -2;
+}

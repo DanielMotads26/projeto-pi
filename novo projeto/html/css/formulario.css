@@ -2,31 +2,4 @@ h1{
     font-style: oblique;
     text-align: center;
 
-}header{
-    background-color: black;
-    text-align: center;
-     padding :20px;
-     margin: 30px;
-     background-size: cover;
-     background-position: center;
-     font-family: Impact, 'Haettenschweiler', 'Arial Narrow ', sans-serif;
-     text-decoration: none;
-}.cabecalho a{
-    padding: 20px;
- margin-top: 10p ;
-}.aa{
-    color: rgb(255, 255, 255);
-    text-decoration: none;
-}body{
-    background-color: #FDF5E6;
-    text-align: center;
-}img{
-    float: left;
-    padding-left: 45px;
-    height: 80px;
-    
-}footer{
-    background-color: black;
-    color: whitesmoke;
-    text-align: center;
 }

@@ -16,15 +16,4 @@ img{
     max-width: fit-content;
 }img.escala {
     width: 70%;
-}header{
-  background-color: black;
-  text-align: center;
-  padding :20px;
-  margin: 30px;
-  margin-left: 10%;
-  background-size: cover;
-  background-position: center;
-  font-family: Impact, 'Haettenschweiler', 'Arial Narrow ', sans-serif;
-  text-decoration: none;
-    
-}
+ }
