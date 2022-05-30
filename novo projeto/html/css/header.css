@@ -10,7 +10,7 @@ header{
     text-decoration: none;
       
   }.cabecalho a{
-    padding: 20px;
+    padding: 15px;
   
 }.logo{
     float: left;
@@ -52,6 +52,13 @@ header{
     text-align: center;
     padding: 10px;
     clear: both;
+}button a{ 
+    color:white ;
+    text-decoration: none;
+}button{
+    background-color: black;
+    float: right;
+    text-decoration: none;
 }body{
     background-color: #FDF5E6;
     font-family: "Cambria", "Cochin", Georgia, Times, 'Times New Roman', serif;

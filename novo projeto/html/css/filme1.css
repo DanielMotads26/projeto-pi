@@ -1,0 +1,43 @@
+h1{
+    font-style: oblique;
+    text-align: center;
+    
+}.p1{
+    padding-right: 50%;
+    border: 1px;
+    margin: 80px;
+
+}img{
+    float: left;
+}.lanca{
+    padding-left: 20px;
+    margin-top: 5%;
+    float: left;
+    text-align: center;
+
+}.texto1{
+    
+    margin-left: 20px;
+}.titulo{
+    margin-top: 20%;
+    margin-left: 20px;
+}.filme{
+    padding-left: 15%;
+}.titulo2{
+    margin-top: 40%;
+    margin-left: 20px;
+}iframe{
+    float: right;
+    padding-right: 10%;
+}.titulo3{
+    padding-right: 20%;
+    margin-top: 10%;
+    float: right;
+    text-align: center;
+    
+}footer{
+    margin-top: 30%;
+    
+}.topo{
+     font-size: large;
+}
