@@ -40,4 +40,8 @@ h1{
     
 }.topo{
      font-size: large;
+}.vota{
+    width: 50px;
+    padding-top: 3.9%;
+    padding-left: 25px;
 }
