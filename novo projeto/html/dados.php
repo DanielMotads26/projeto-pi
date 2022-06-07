@@ -19,6 +19,6 @@ $query= mysqli_query($conexao, $sql)
 ?>
 <script>
  window.alert('Enviado com Sucesso')
- window.location.href= "hp.html"
+ window.location.href= "index.html"
 
 </script>

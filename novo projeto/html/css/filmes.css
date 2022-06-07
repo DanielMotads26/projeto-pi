@@ -44,4 +44,8 @@ h1{
     width: 50px;
     padding-top: 3.9%;
     padding-left: 25px;
+}.voltar{
+    float: left;
+    
+    color: whitesmoke;
 }
